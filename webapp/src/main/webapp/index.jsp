@@ -15,7 +15,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 
 <!-- Navigation Bar -->
 <div class="w3-bar w3-white w3-large">
-  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><i class="fa fa-bed w3-margin-right"></i>Logo</a>
+  <a href="#" class="w3-bar-item w3-button w3-red w3-mobile"><i class="fa fa-bed w3-margin-right"></i>Global-Logic Hotel</a>
   <a href="#rooms" class="w3-bar-item w3-button w3-mobile">Rooms</a>
   <a href="#about" class="w3-bar-item w3-button w3-mobile">About</a>
   <a href="#contact" class="w3-bar-item w3-button w3-mobile">Contact</a>
@@ -23,7 +23,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif}
 </div>
 <!-- Header -->
 <header class="w3-display-container w3-content" style="max-width:1500px;">
-  <img class="w3-image" src="/w3images/hotel.jpg" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
+  <img class="w3-image" src="https://www.w3schools.com/w3images/hotel.jpg" alt="The Hotel" style="min-width:1000px" width="1500" height="800">
   <div class="w3-display-left w3-padding w3-col l6 m8">
     <div class="w3-container w3-red">
       <h2><i class="fa fa-bed w3-margin-right"></i>Hotel Name</h2>
